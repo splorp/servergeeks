@@ -1,0 +1,28 @@
+body {
+	background-color: #630;
+	color: #FFF;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	}
+
+img {
+	border: none;
+	}
+	
+div {
+	margin: 100px auto;
+	}
+
+a, a:visited {
+	color: #FFF;
+	border-bottom: 1px dotted #033;
+	padding: 2px 0;
+	text-decoration: none;
+	}
+	
+a:hover, a:visited:hover {
+	color: #000;
+	text-shadow: none;
+	border-bottom: none;
+	}
